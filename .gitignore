@@ -1,0 +1,13 @@
+# Game data: extracted from your own copy, never committed
+backup/
+images/
+translation/text_ja.json
+translation/story_ja.json
+translation/story_unique.txt
+# build outputs
+translation/text_en.json
+translation/story_en.json
+bin/
+obj/
+__pycache__/
+build/
