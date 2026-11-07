@@ -201,7 +201,7 @@ S = {
 '48.26': "...Hm? You, the one who's been silent all along. Serph, was it? Why are you making that face?",
 '48.27': 'If you have something to say, say it."',
 '48.28': "Grimace and say something stinks",
-'48.29': "Point out a rotten stench coming from him",
+'48.29': 'Say a rotten stench comes from him',
 '48.31': '"Y-y-you\'re imagining it, S-Serph."',
 '48.33': '"No, I\'m not. It\'s definitely coming from your direction!',
 '48.34': 'What is this smell?"',

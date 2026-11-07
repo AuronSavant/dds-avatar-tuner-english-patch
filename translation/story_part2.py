@@ -227,7 +227,7 @@ S = {
 '39.18': '"Then I ask again.',
 '39.19': 'Will these differing paths sever the \'bond\' between you, or not?"',
 '39.20': "No need to answer. Of course not",
-'39.21': "We could never lose trust in each other",
+'39.21': "Our trust in each other won't break",
 '39.23': '"Hah, sure, this guy\'s an idiot! Even if he goes up, he won\'t become human.',
 '39.24': '...But he... Heat hasn\'t truly lost his \'human heart\'... I believe that..."',
 }
